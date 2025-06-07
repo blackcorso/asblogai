@@ -7,7 +7,7 @@ Di era digital saat ini, penting untuk memiliki artikel yang tidak hanya menarik
 
 Asblog AI adalah alat inovatif yang dirancang untuk membantu para blogger dan pembuat konten dalam menciptakan artikel yang terdengar alami dan ditulis oleh manusia. Menggunakan teknologi AI canggih, alat ini mampu menghasilkan konten yang lolos dari plagiarisme dan deteksi AI.
 
-### Fitur Menarik Asblog AI
+### [Fitur Menarik Asblog AI](https://asblogai.pages.dev/)
 
 1. **Optimasi Judul**: Cukup berikan ide judul, dan Asblog AI akan secara otomatis mengoptimasi judul tersebut agar lebih menarik.
   
